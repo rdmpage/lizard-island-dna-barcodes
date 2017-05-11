@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId=""  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+  <title>DNA barcoding the fishes of Lizard Island (Great Barrier Reef)</title>
+  
+  <metadataProvider>
+   <individualName>
+    <givenName>Roderic D. M.</givenName>
+    <surName>Page</surName>
+   </individualName>
+   <organizationName>University of Glasgow</organizationName>
+   <address/>
+   <electronicMailAddress>Roderic.Page@glasgow.ac.uk</electronicMailAddress>
+  </metadataProvider>
+  
+  <pubDate>2017-05-11</pubDate>
+
+
+<language>en</language>
+<abstract>
+  <para>To date the global initiative to barcode all fishes, FISH-BOL, has delivered barcodes for approximately 14,400 of the 30,000 fish species; there is still much to do to attain its ultimate goal of barcoding all the world’s fishes. One strategy to overcome local gaps is to initiate short but intensive efforts to collect and barcode as many species as possible from a small region – a barcode ‘blitz’. This study highlights one such event, for the marine waters around Lizard island in the Great Barrier Reef (Queensland, Australia). Barcode records were obtained from 983 fishes collected over a two-week period. The resulting dataset comprised 358 named species and another 13 species that presently can only be reliably identified to genus level. Overall, this short expedition provided DNA barcodes for 13% of all marine fish species known to occur in Queensland.</para>
+</abstract>
+
+<!-- I'm not the copyright holder, and iBOL haven't asserted any license, so let's assume this is Public Domain -->
+<intellectualRights>
+<para>
+This work is free of known copyright restrictions.
+<ulink url="http://creativecommons.org/publicdomain/mark/1.0/">
+<citetitle>Public Domain Mark</citetitle>
+</ulink>
+</para>
+</intellectualRights>
+
+<contact>
+</contact>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>    
+    	<citation identifier="http://doi.org/10.3897/bdj.5.e12409">Steinke, D., deWaard, J., Gomon, M., Johnson, J., Larson, H., Lucanus, O., … Ward, R. (2017, April 13). DNA barcoding the fishes of Lizard Island (Great Barrier Reef). Biodiversity Data Journal. Pensoft Publishers. https://doi.org/10.3897/bdj.5.e12409
+</citation>
+
+<bibliography>
+<citation identifier="http://dx.doi.org/10.5883/DS-LIFE">DNA barcoding the fishes of Lizard Island (Great Barrier Reef). http://dx.doi.org/10.5883/DS-LIFE
+</citation>
+</bibliography>
+
+
+
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>

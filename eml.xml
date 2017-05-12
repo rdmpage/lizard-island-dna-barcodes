@@ -44,10 +44,8 @@ This work is free of known copyright restrictions.
 <additionalMetadata>
   <metadata>
     <gbif>    
-    	<citation identifier="http://doi.org/10.3897/bdj.5.e12409">Steinke, D., deWaard, J., Gomon, M., Johnson, J., Larson, H., Lucanus, O., … Ward, R. (2017, April 13). DNA barcoding the fishes of Lizard Island (Great Barrier Reef). Biodiversity Data Journal. Pensoft Publishers. https://doi.org/10.3897/bdj.5.e12409
-</citation>
-
 <bibliography>
+<citation identifier="http://doi.org/10.3897/bdj.5.e12409">Steinke, D., deWaard, J., Gomon, M., Johnson, J., Larson, H., Lucanus, O., … Ward, R. (2017, April 13). DNA barcoding the fishes of Lizard Island (Great Barrier Reef). Biodiversity Data Journal. Pensoft Publishers. https://doi.org/10.3897/bdj.5.e12409</citation>
 <citation identifier="http://dx.doi.org/10.5883/DS-LIFE">DNA barcoding the fishes of Lizard Island (Great Barrier Reef). http://dx.doi.org/10.5883/DS-LIFE
 </citation>
 </bibliography>

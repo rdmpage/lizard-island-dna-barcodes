@@ -2,5 +2,6 @@
 *.gitattributes export-ignore
 *.gitignore export-ignore
 *.md export-ignore
+*.png export-ignore
 *.request export-ignore
 *.xsl export-ignore

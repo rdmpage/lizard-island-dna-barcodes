@@ -7,7 +7,7 @@
 	<key>bodyString</key>
 	<string>{
   "type":"DWC_ARCHIVE",
-  "url":"https://dl.dropboxusercontent.com/u/639486/lizard-island.zip"
+  "url":"https://github.com/rdmpage/lizard-island-dna-barcodes/archive/master.zip"
 }</string>
 	<key>followRedirect</key>
 	<true/>
